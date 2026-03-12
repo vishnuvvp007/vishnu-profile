@@ -1,6 +1,6 @@
 'use client'
 import { useRef, useEffect, useState } from 'react'
-import { useReveal } from './UseReveal'
+import { useReveal } from './useReveal'
 
 const SKILL_GROUPS = [
   {
